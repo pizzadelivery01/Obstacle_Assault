@@ -1,6 +1,12 @@
 {
 	"SourceFiles": [
 		"D:\\unreal\\Obstacle_Assault\\Source\\Obstacle_Assault\\Obstacle_Assault.Build.cs",
+		"D:\\unreal\\Obstacle_Assault\\Plugins\\Developer\\RiderLink\\Source\\RD\\RD.Build.cs",
+		"D:\\unreal\\Obstacle_Assault\\Plugins\\Developer\\RiderLink\\Source\\RiderBlueprint\\RiderBlueprint.Build.cs",
+		"D:\\unreal\\Obstacle_Assault\\Plugins\\Developer\\RiderLink\\Source\\RiderGameControl\\RiderGameControl.Build.cs",
+		"D:\\unreal\\Obstacle_Assault\\Plugins\\Developer\\RiderLink\\Source\\RiderLink\\RiderLink.Build.cs",
+		"D:\\unreal\\Obstacle_Assault\\Plugins\\Developer\\RiderLink\\Source\\RiderLogging\\RiderLogging.Build.cs",
+		"D:\\unreal\\Obstacle_Assault\\Plugins\\Developer\\RiderLink\\Source\\RiderShaderInfoDump\\RiderShaderInfoDump.Build.cs",
 		"D:\\unreal\\Obstacle_Assault\\Source\\Obstacle_Assault.Target.cs",
 		"D:\\unreal\\Obstacle_Assault\\Source\\Obstacle_AssaultEditor.Target.cs"
 	],

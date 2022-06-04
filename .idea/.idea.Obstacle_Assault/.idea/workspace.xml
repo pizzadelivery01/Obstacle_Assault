@@ -5,11 +5,21 @@
     <projectFile>Intermediate/ProjectFiles/UE5.vcxproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="839a60e4-d8f7-4d3f-b367-c82b0246585d" name="Changes" comment="" />
+    <list default="true" id="839a60e4-d8f7-4d3f-b367-c82b0246585d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Obstacle_Assault/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Obstacle_Assault/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/Obstacle_Assault.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/UE5.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/DebugGame/Obstacle_Assault/Definitions.Obstacle_Assault.h" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2A6PfAViTUvJUd6ujMvxQra5w9w" />
   <component name="ProjectViewState">
@@ -148,7 +158,8 @@
       <option name="presentableId" value="Default" />
       <updated>1654327163559</updated>
       <workItem from="1654327171456" duration="139000" />
-      <workItem from="1654327370950" duration="314000" />
+      <workItem from="1654327370950" duration="669000" />
+      <workItem from="1654328083518" duration="80000" />
     </task>
     <task id="LOCAL-00001" summary="stopping for the night">
       <created>1654327653547</created>
@@ -157,12 +168,20 @@
       <option name="project" value="LOCAL" />
       <updated>1654327653548</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="stopping for night">
+      <created>1654327722271</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654327722271</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -178,6 +197,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="stopping for the night" />
-    <option name="LAST_COMMIT_MESSAGE" value="stopping for the night" />
+    <MESSAGE value="stopping for night" />
+    <option name="LAST_COMMIT_MESSAGE" value="stopping for night" />
   </component>
 </project>
