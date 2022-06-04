@@ -11,6 +11,8 @@
     <None Include="..\..\Source\Obstacle_AssaultEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <None Include="..\..\Obstacle_Assault.png" />
     <None Include="..\..\SCK_Casual01.png" />
     <Filter Include="Config">
