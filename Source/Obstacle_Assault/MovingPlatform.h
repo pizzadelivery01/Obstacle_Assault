@@ -18,15 +18,27 @@ public:
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
+	
 
+	
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
-	UPROPERTY(EditAnyWhere)
-	FVector MyVector = FVector(1, 2, 3);
+private:
 	
+	UPROPERTY(EditAnywhere, Category="Moving")
+	FVector PlatformVelocity = FVector(100, 0, 0);
+	UPROPERTY(EditAnywhere, Category="Moving")
+	float MoveDistance = 100;
+	UPROPERTY(EditAnywhere, Category="Rotation")
+	FRotator RotationVelocity;
+	
+	FVector StartLocation;
 
-	UPROPERTY(EditAnyWhere)
-	float MyX = 0;
+	void MovePlatform(float DeltaTime);
+	void RotatePlatform(float DeltaTime);
+	
+	bool ShouldPlatformReturn() const;
+	float GetDistanceMoved() const;
 };
